@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "net/overgrown/murky_mirror/mixin/MurkyMirrorMixin": {
+      "init()V": "Lnet/minecraft/class_442;method_25426()V"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "net/overgrown/murky_mirror/mixin/MurkyMirrorMixin": {
+        "init()V": "Lnet/minecraft/class_442;method_25426()V"
+      }
+    }
+  }
+}
